@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "outDir": "dist/",
+      "target": "ESNext",
+      "module": "commonjs",
+      "strict": true,
+      "allowSyntheticDefaultImports": true,
+      // "esModuleInterop": true,
+      "moduleResolution": "Node",
+      "forceConsistentCasingInFileNames": true,
+      "types": ["node", "jest"]
+    },
+    "exclude": [
+      "node_modules"
+    ]
+  }
+
